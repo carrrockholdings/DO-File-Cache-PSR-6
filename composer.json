@@ -11,7 +11,7 @@
     "license": "LGPL-3.0-only",
     "require": {
         "divineomega/do-file-cache": "*",
-        "psr/cache": "^2"
+        "psr/cache": "^3"
     },
     "require-dev": {
         "cache/integration-tests": "^0.16.0",
